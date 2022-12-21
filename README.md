@@ -1,4 +1,6 @@
-# github pages와 Jekyll theme(Minimal Mistakes)를 기반으로 구축한 개인 블로그
+# 개인 기술 블로그
+
+> `github pages`와 `Jekyll theme(Minimal Mistakes)`를 기반으로 구축
 
 ## 포스팅 내용
 
